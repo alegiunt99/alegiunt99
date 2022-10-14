@@ -2,7 +2,7 @@
 - 👀 I’m interested in football, gaming and coding
 - 🌱 I’m currently learning Java and Spring Boot
 
-Linkedin: https://www.linkedin.com/in/alessandro-giunta-170a98183 /n
+Linkedin: https://www.linkedin.com/in/alessandro-giunta-170a98183 
 Email: alegiunt99@gmail.com
 
 <!---
