@@ -10,8 +10,7 @@ Ciao, sono Alessandro!
 💻 HTML | CSS | JavaScript | Java | SQL | Python  
 🧪 Batch DOS | Excel (VBA, formule avanzate)
 
-##📌 Alcuni progetti a cui ho lavorato
-```html
+## 📌 Alcuni progetti a cui ho lavorato
 
 🍔 Boolivery – Clonazione stile Deliveroo con HTML, CSS, JS e Laravel
 
@@ -22,16 +21,17 @@ Ciao, sono Alessandro!
 📈 Statistiche GitHub
 
 
-🎯 Obiettivi attuali
-🧠 - Migliorare le mie competenze in Jetpack Compose e sviluppo Android con Kotlin
+## 🎯 Obiettivi attuali
+- 🧠 Migliorare le mie competenze in Jetpack Compose e sviluppo Android con Kotlin
 
-📱 Pubblicare almeno 2 app su Google Play Store
+- 📱 Pubblicare almeno 2 app su Google Play Store
 
-🇬🇧 Raggiungere il livello C2 di inglese
+- 🇬🇧 Raggiungere il livello C2 di inglese
 
-🌱 Continuare a costruire progetti utili, con codice leggibile e documentato
+- 🌱 Continuare a costruire progetti utili, con codice leggibile e documentato
 
-📬 Contatti
+## 📬 Contatti
+
 💼 LinkedIn: https://www.linkedin.com/in/alessandro-giunta-170a98183/
 
 🌐 Portfolio (work in progress...)
