@@ -7,7 +7,6 @@ Ciao, sono Alessandro!
 
 ## 🚀 Tech Stack
 
-```plaintext
 💻 HTML | CSS | JavaScript | Java | SQL | Python  
 🧪 Batch DOS | Excel (VBA, formule avanzate)
 📌 Alcuni progetti a cui ho lavorato
@@ -38,15 +37,3 @@ Ciao, sono Alessandro!
 
 ✨ “Chi si ferma è perduto.”
 
-yaml
-Copia
-Modifica
-
----
-
-Fammi sapere se vuoi:
-
-- Personalizzare la sezione contatti
-- Aggiungere una tagline in cima al profilo
-- Inserire un elenco delle soft skills o certificazioni
-- Usare un tema dark per i badge dinamici
