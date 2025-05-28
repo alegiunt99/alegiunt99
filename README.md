@@ -9,7 +9,10 @@ Ciao, sono Alessandro!
 
 💻 HTML | CSS | JavaScript | Java | SQL | Python  
 🧪 Batch DOS | Excel (VBA, formule avanzate)
-📌 Alcuni progetti a cui ho lavorato
+
+##📌 Alcuni progetti a cui ho lavorato
+```html
+
 🍔 Boolivery – Clonazione stile Deliveroo con HTML, CSS, JS e Laravel
 
 💬 Vue Boolzapp – App di messaggistica ispirata a WhatsApp in Vue.js
@@ -20,7 +23,7 @@ Ciao, sono Alessandro!
 
 
 🎯 Obiettivi attuali
-🧠 Migliorare le mie competenze in Jetpack Compose e sviluppo Android con Kotlin
+🧠 - Migliorare le mie competenze in Jetpack Compose e sviluppo Android con Kotlin
 
 📱 Pubblicare almeno 2 app su Google Play Store
 
@@ -29,11 +32,11 @@ Ciao, sono Alessandro!
 🌱 Continuare a costruire progetti utili, con codice leggibile e documentato
 
 📬 Contatti
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/alessandro-giunta-170a98183/
 
-🌐 Portfolio (se disponibile)
+🌐 Portfolio (work in progress...)
 
-📧 Email: tuo@email.com
+📧 Email: **alegiunt99@gmail.com**
 
 ✨ “Chi si ferma è perduto.”
 
